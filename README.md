@@ -1,0 +1,2 @@
+TradeBook is a prediction market platform inspired by Polymarket, where users can trade on the outcomes of real-world events. It allows users to create and participate in prediction markets, buy and sell outcome-based positions, and track market activity and potential returns through a simple trading interface.
+<img width="646" height="290" alt="image" src="https://github.com/user-attachments/assets/051dc320-f41f-47fa-a8f1-3fd91f468b93" />
